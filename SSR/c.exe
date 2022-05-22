@@ -1,7 +1,7 @@
-#!MANAGED-CONFIG https://oooiooo.me/link/izC2HdV4YoO4Ev9I?clash=1
+#!MANAGED-CONFIG https://oooiooo.me/link/kwAYFrQTCodkYy1D?clash=1
 
 #---------------------------------------------------#
-## 上次更新于：2022-05-21 12:20:45
+## 上次更新于：2022-05-22 02:45:50
 #---------------------------------------------------#
 
 port: 7890
@@ -18,112 +18,112 @@ proxies:
     type: trojan
     server: tt01.kuli888.xyz
     port: 35358
-    password: cf26e76d-a7c6-39c8-b26a-ce95e61700e7
+    password: 7345cadb-6411-3802-909c-c6942e35d33b
     sni: tw.kuli888.xyz
   -
     name: v0丨免费丨看教程无人工
     type: trojan
     server: tt02.kuli888.xyz
     port: 36368
-    password: cf26e76d-a7c6-39c8-b26a-ce95e61700e7
+    password: 7345cadb-6411-3802-909c-c6942e35d33b
     sni: tw02.kuli888.xyz
   -
     name: '🇹🇼 v1丨台湾丨原生丨深台中转'
     type: trojan
     server: v1tw01.kuli888.xyz
     port: 52035
-    password: cf26e76d-a7c6-39c8-b26a-ce95e61700e7
+    password: 7345cadb-6411-3802-909c-c6942e35d33b
     sni: tw02.kuli888.xyz
   -
     name: '🇯🇵 v1丨日本丨Trojan'
     type: trojan
     server: riben.kuli888.xyz
     port: 443
-    password: cf26e76d-a7c6-39c8-b26a-ce95e61700e7
+    password: 7345cadb-6411-3802-909c-c6942e35d33b
     sni: yinghua03dasfasfvaev.kulime.space
   -
     name: '🇺🇲 v1丨美国丨Trojan'
     type: trojan
     server: us.kuli888.xyz
     port: 35256
-    password: cf26e76d-a7c6-39c8-b26a-ce95e61700e7
+    password: 7345cadb-6411-3802-909c-c6942e35d33b
     sni: us.kuli888.xyz
   -
     name: '🇭🇰 v1丨香港丨Trojan丨02'
     type: trojan
     server: hk07.kuli888.xyz
     port: 443
-    password: cf26e76d-a7c6-39c8-b26a-ce95e61700e7
+    password: 7345cadb-6411-3802-909c-c6942e35d33b
     sni: safwv07dawjncwsdc.kulime.space
   -
     name: '🇭🇰 v1丨香港丨Trojan丨03'
     type: trojan
     server: v1az03.kuli888.xyz
     port: 443
-    password: cf26e76d-a7c6-39c8-b26a-ce95e61700e7
+    password: 7345cadb-6411-3802-909c-c6942e35d33b
     sni: v1az03.kuli888.xyz
   -
     name: '🇭🇰 v1丨香港丨Trojan丨05'
     type: trojan
     server: az05feiy.kuli888.xyz
     port: 443
-    password: cf26e76d-a7c6-39c8-b26a-ce95e61700e7
+    password: 7345cadb-6411-3802-909c-c6942e35d33b
     sni: fy05dascefbb.kulime.space
   -
     name: '🇭🇰 v1丨香港丨Trojan丨06'
     type: trojan
     server: az06dcjhh.kuli888.xyz
     port: 443
-    password: cf26e76d-a7c6-39c8-b26a-ce95e61700e7
+    password: 7345cadb-6411-3802-909c-c6942e35d33b
     sni: az06feiydwf.kulime.space
   -
     name: '🇭🇰 v1丨香港丨Trojan丨1丨落地'
     type: trojan
     server: az01.kuli888.xyz
     port: 443
-    password: cf26e76d-a7c6-39c8-b26a-ce95e61700e7
+    password: 7345cadb-6411-3802-909c-c6942e35d33b
     sni: az01dacjdcndacc.kulime.space
   -
     name: '🇭🇰 v1丨香港丨Trojan丨原生丨'
     type: trojan
     server: hk04.kuli888.xyz
     port: 8080
-    password: cf26e76d-a7c6-39c8-b26a-ce95e61700e7
+    password: 7345cadb-6411-3802-909c-c6942e35d33b
     sni: hk04.kuli888.xyz
   -
     name: '🇭🇰 v1丨香港丨Trojan丨原生丨04'
     type: trojan
     server: hk06.kuli888.xyz
     port: 12520
-    password: cf26e76d-a7c6-39c8-b26a-ce95e61700e7
+    password: 7345cadb-6411-3802-909c-c6942e35d33b
     sni: hk06.kuli888.xyz
   -
     name: '🇭🇰 v1丨香港丨Trojan丨沪港3'
     type: trojan
     server: v1hugang3.kuli888.xyz
     port: 11150
-    password: cf26e76d-a7c6-39c8-b26a-ce95e61700e7
+    password: 7345cadb-6411-3802-909c-c6942e35d33b
     sni: hk05.kuli888.xyz
   -
     name: '🇭🇰 v1丨香港丨Trojan丨沪港中继丨4'
     type: trojan
     server: v1hugang4.kuli888.xyz
     port: 11151
-    password: cf26e76d-a7c6-39c8-b26a-ce95e61700e7
+    password: 7345cadb-6411-3802-909c-c6942e35d33b
     sni: hg05dcwjdjdanc.kulime.space
   -
     name: '🇭🇰 v1丨香港丨Trojan丨沪港中继丨5'
     type: trojan
     server: v1hugang5.kuli888.xyz
     port: 10028
-    password: cf26e76d-a7c6-39c8-b26a-ce95e61700e7
+    password: 7345cadb-6411-3802-909c-c6942e35d33b
     sni: hk06.kuli888.xyz
   -
     name: '🇭🇰 v1丨香港丨Trojan丨深港中继1'
     type: trojan
     server: v1shengang.kuli888.xyz
     port: 52016
-    password: cf26e76d-a7c6-39c8-b26a-ce95e61700e7
+    password: 7345cadb-6411-3802-909c-c6942e35d33b
     sni: vdfasfeffawkje.kuli888.xyz
 proxy-groups:
   -
